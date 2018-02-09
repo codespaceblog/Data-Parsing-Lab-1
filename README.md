@@ -1,6 +1,8 @@
 # Data-Parsing-Lab-1
 Just a fun lab I created to test new hire's ability to use Google and work with a team
 
+There are a million different ways to do this. Dont let my answers be the only way. I would love to see how everyone else completed this lab!
+
 Lab 1
 
 Time Limit: 30 minutes
