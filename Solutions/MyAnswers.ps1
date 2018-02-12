@@ -1,4 +1,4 @@
-$myData = Import-Csv C:\Users\jamuldr\networkdata.csv
+$myData = Import-Csv ../../networkdata.csv
 
 # Question 1 
 $myData
