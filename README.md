@@ -11,7 +11,7 @@ Given access to a Linux/Windows workstation, Google, and questions to your peers
 for you), without physically opening the CSV answer the following questions:
 
 1. What are the column header names for each column in the CSV?
-2. Hoe many records are in the CSV
+2. How many records are in the CSV
 3. What user has an unencrypted password?
 4. What is that user’s password?
 5. What is Koressa&#39;s user id?
