@@ -1,9 +1,9 @@
-$myData = Import-Csv C:\Users\jamuldr\networkdata.csv
+$myData = Import-Csv ../../networkdata.csv
 
-# Question 1 
+# Question 1
 $myData
 
-# Question 2 
+# Question 2
 $myData.length
 
 # Question 3
@@ -17,5 +17,3 @@ $myData | ForEach-Object {if ($_."user name" -eq "Koressa") { $_ } }
 
 # Question 6
 $myData | ForEach-Object {if ($_."host ip address" -eq "10.10.16.74") { $_ } }
-
-
